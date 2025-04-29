@@ -5,7 +5,7 @@
 
 📫 **Contact Me:**  
 [![Email](https://img.shields.io/badge/Email-akashkumarsoni0786@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akashkumarsoni0786@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash_Soni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash_Soni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/creater-akash-soni)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+917275022124-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/917275022124)
 
 ## 🛠 Technical Stack
