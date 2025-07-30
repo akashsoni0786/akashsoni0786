@@ -11,7 +11,8 @@
 ## 🛠 Technical Stack
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React JS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Shopify Polaris](https://img.shields.io/badge/-Shopify_Polaris-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
