@@ -1,7 +1,21 @@
-# 👋 Hi, I'm Akash Soni  
+<h1 align="center">👋 Hi, I'm Akash Soni</h1>
 
-🚀 **Senior Software Development Engineer | React.js | AI Applications**  
-🏆 Gold Medalist | 💡 3+ Years Experience | 🤖 Generative AI & AI Agents  
+<p align="center">
+  🚀 <b>Senior Software Development Engineer | React.js | AI Applications</b> <br/>
+  🏆 Gold Medalist | 💡 <b>4+ Years Experience</b> | 🤖 Generative AI & AI Agents
+</p>
+
+<p align="center">
+  <a href="mailto:akashkumarsoni0786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/creator-akash-soni">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/917275022124">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -9,36 +23,41 @@
 
 I build **scalable web applications & AI-powered systems** that solve real business problems.  
 
-- ⚡ 3+ years in React.js, TypeScript, Next.js  
-- 🤖 Currently building **AI Agent platforms & automation systems**  
+✨ **Highlights:**  
+- ⚡ 4+ years in React.js, TypeScript, Next.js  
+- 🤖 Building **AI Agent platforms & automation systems**  
 - 📈 Delivered apps with **40% revenue growth**  
-- 🧠 Strong in **System Design + Performance Optimization**  
+- 🧠 Strong in **System Design & Performance Optimization**  
 
 ---
 
 ## 🛠 Tech Stack  
 
 ### 🚀 Frontend  
-![Next JS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React JS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=ant-design"/>
+</p>
 
 ### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+</p>
 
 ### 🤖 AI / ML  
-- Generative AI  
-- AI Agents  
-- Automation Systems  
+`Generative AI` • `AI Agents` • `Automation Systems`
 
 ### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
+</p>
 
 ---
 
@@ -47,8 +66,8 @@ I build **scalable web applications & AI-powered systems** that solve real busin
 ### 🚀 Senior Software Development Engineer (React Lead)  
 **EMB Global | Oct 2025 – Present**  
 - Lead architect for **Rayo AI Platform**  
-- Built real-time **AI Agent interfaces**  
-- Reduced manual processing using AI automation  
+- Built real-time **AI Agent interfaces & workflows**  
+- Reduced manual processing via AI automation  
 - Owned frontend architecture & system design  
 
 ---
@@ -65,7 +84,7 @@ I build **scalable web applications & AI-powered systems** that solve real busin
 **Threecolts | Apr 2022 – May 2025**  
 - Developed **25+ reusable React components**  
 - 🚀 Improved performance by **20%**  
-- Scaled frontend for global users  
+- Scaled frontend systems for global users  
 
 ---
 
@@ -79,21 +98,21 @@ I build **scalable web applications & AI-powered systems** that solve real busin
 ## 🚀 Featured Projects  
 
 ### 🤖 Rayo – AI Agent Platform  
-- Built AI-powered automation system  
-- Multi-case handling with intelligent workflows  
+- AI-powered automation system  
+- Multi-case intelligent workflows  
 - Real-time human-AI interaction UI  
 
 ---
 
 ### 🛍 Ghar Mandir E-commerce  
 - 500+ daily transactions platform  
-- ⚡ 40% faster performance using SSR/SSG  
+- ⚡ 40% faster performance (SSR/SSG)  
 - 📈 15% revenue growth  
 
 ---
 
 ### 🛒 TikTok Marketplace Integration  
-- Shopify + WooCommerce + BigCommerce integration  
+- Shopify + WooCommerce + BigCommerce  
 - 📈 40% revenue increase  
 - ⚡ Faster product uploads  
 
@@ -107,7 +126,7 @@ I build **scalable web applications & AI-powered systems** that solve real busin
 
 ### 🏥 Clinic Management System  
 - Optimized MySQL queries  
-- Built scalable patient workflows  
+- Scalable patient workflows  
 
 ---
 
@@ -128,25 +147,27 @@ I build **scalable web applications & AI-powered systems** that solve real busin
 
 ## 📊 GitHub Stats  
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni0786&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni0786&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsoni0786&show_icons=true&theme=radical"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni0786&layout=compact&theme=radical"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me  
 
-📧 Email: akashkumarsoni0786@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/creator-akash-soni  
-📱 WhatsApp: +91 7275022124  
+📧 **Email:** akashkumarsoni0786@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/creator-akash-soni  
+📱 **WhatsApp:** +91 7275022124  
 
 ---
 
 ## 💡 Why Me?  
 
-✔ React + AI combo (high demand skillset)  
+✔ Strong **React + AI combination**  
 ✔ Proven **business impact (revenue + performance)**  
-✔ Experience with **real production systems**  
-✔ Focus on **clean UI + smart automation**  
+✔ Experience with **real-world scalable systems**  
+✔ Focus on **clean UI + intelligent automation**  
 
 ---
