@@ -1,131 +1,194 @@
-<h1 align="center">
-  <img src="https://github.com/akashsoni0786.png" width="100" style="border-radius:50%"/><br/>
-  👋 Hi, I'm Akash Soni
-</h1>
-
+<!-- ═══════════════════════  HERO  ═══════════════════════ -->
 <p align="center">
-  <b>Senior Software Development Engineer · React Lead · AI Builder</b><br/>
-  🏆 University Gold Medalist &nbsp;|&nbsp; 4+ Years Experience &nbsp;|&nbsp; 🤖 Generative AI & AI Agents
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1D9E75,100:2c5364&height=200&section=header&text=Akash%20Soni&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20SDE%20%E2%80%A2%20React%20Lead%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="mailto:akashkumarsoni0786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/creator-akash-soni">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/akashsoni0786">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/917275022124">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=600&lines=I+build+scalable+React+%26+Next.js+apps;Shipping+AI+Agents+with+RAG+%2B+SSE+streaming;Turning+code+into+business+impact+%F0%9F%93%88" alt="Typing SVG"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_University_Gold_Medalist-1D9E75?style=flat-square"/>
+  <img src="https://img.shields.io/badge/⚡_4+_Years_Experience-0f2027?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🤖_GenAI_%26_AI_Agents-2c5364?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=akashsoni0786&style=flat-square&color=1D9E75&label=Profile+Views"/>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="mailto:akashkumarsoni0786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/creator-akash-soni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/917275022124"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
-I build **scalable web applications & AI-powered systems** that solve real business problems.
+<br/>
 
-- ⚡ **4+ years** in React.js, TypeScript, Next.js
-- 🤖 Building **AI Agent platforms** with real-time streaming, RAG & TipTap editors
-- 📈 Delivered apps with **40% revenue growth** and **20% performance improvement**
-- 🧠 Strong in **System Design, Frontend Architecture & GenAI Integration**
+<!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
+<table>
+<tr>
+<td width="58%" valign="top">
 
----
+### 🧭 About Me
 
-## 🛠 Tech Stack
+I build **scalable web apps** and **AI-powered systems** that solve real business problems — from pixel-perfect frontends to production GenAI pipelines.
 
-**Frontend**
+- ⚛️ &nbsp;**4+ years** with React, TypeScript & Next.js
+- 🤖 &nbsp;Leading the **Rayo AI Agent Platform** — streaming, RAG, rich editors
+- 🧠 &nbsp;Strong in **System Design** & **Frontend Architecture**
+- 🌱 &nbsp;Currently exploring: **multi-agent orchestration & evals**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+</td>
+<td width="42%" valign="top">
 
-**Backend & Database**
+### 📈 Impact
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+| Metric | Result |
+|:--|:--:|
+| 💰 Revenue growth | **+40%** |
+| ⚡ Page speed (SSR/SSG) | **40% faster** |
+| 🚀 App performance | **+20%** |
+| 🛒 Daily transactions | **500+** |
 
-**AI / GenAI**
+</td>
+</tr>
+</table>
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-1D9E75?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-1D9E75?style=flat-square)
-![SSE Streaming](https://img.shields.io/badge/SSE_Streaming-1D9E75?style=flat-square)
-![TipTap](https://img.shields.io/badge/TipTap_Editor-1D9E75?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-1D9E75?style=flat-square)
+<!-- ═══════════════════════  STACK  ═══════════════════════ -->
+## 🛠️ Tech Stack
 
----
+<table>
+<tr>
+<td align="center" width="120"><b>Frontend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css&theme=dark" height="40"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" height="40"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" height="40"/></td>
+</tr>
+<tr>
+<td align="center"><b>AI / GenAI</b></td>
+<td>
+  <img src="https://img.shields.io/badge/AI_Agents-1D9E75?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-1D9E75?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SSE_Streaming-1D9E75?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TipTap-1D9E75?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" height="40"/></td>
+</tr>
+</table>
 
+<!-- ═══════════════════════  EXPERIENCE  ═══════════════════════ -->
 ## 💼 Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| 🟢 Senior SDE · React Lead | **EMB Global** — Rayo AI Platform | Oct 2025 – Present |
-| 🔵 Software Development Engineer II | **Ghar Mandir** | May 2025 – Oct 2025 |
-| 🟣 Software Development Engineer | **Threecolts** | Apr 2022 – May 2025 |
-| ⚪ SDE Intern | **Fortax** | Sep 2021 – Feb 2022 |
+```text
+  ●  Senior SDE · React Lead ........ EMB Global (Rayo AI)   Oct 2025 — Present
+  │
+  ●  SDE II ........................... Ghar Mandir           May 2025 — Oct 2025
+  │
+  ●  Software Development Engineer .... Threecolts            Apr 2022 — May 2025
+  │
+  ○  SDE Intern ....................... Fortax                Sep 2021 — Feb 2022
+```
 
----
+<!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
+## 🚀 Featured Work
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 Rayo — AI Agent Platform
-> Real-time AI agent workflows · SSE Streaming · TipTap rich editor · RAG pipeline · Diff visualization
+#### 🤖 Rayo — AI Agent Platform
+Real-time agent workflows with **SSE streaming**, a **TipTap** rich editor, **RAG** pipeline and diff visualization.
 
-### 🛍 Ghar Mandir E-commerce
-> 500+ daily transactions · 40% faster via SSR/SSG · 15% revenue growth
+`React` `TypeScript` `SSE` `RAG`
 
-### 🛒 TikTok Marketplace Integration
-> Shopify + WooCommerce + BigCommerce · 40% revenue increase
+</td>
+<td width="50%" valign="top">
 
-### 🧩 Etsy–Shopify Connector
-> 35% engagement boost · 20% efficiency improvement
+#### 🛍️ Ghar Mandir E-commerce
+**500+ daily transactions**, **40% faster** loads via SSR/SSG, **15% revenue growth**.
 
-### 🏥 Clinic Management System
-> Optimized MySQL queries · Scalable patient workflows
+`Next.js` `SSR/SSG` `Payments`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+#### 🛒 TikTok Marketplace Integration
+Unified Shopify, WooCommerce & BigCommerce sync — **+40% revenue**.
+
+`React` `Node.js` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧩 Etsy ↔ Shopify Connector
+Cross-platform listing sync — **+35% engagement**, **+20% efficiency**.
+
+`React` `Polaris` `Integrations`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🏥 Clinic Management System
+Patient workflows, billing and records on optimized **MySQL** queries, built to scale.
+
+`React` `Node.js` `MySQL`
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════  STATS  ═══════════════════════ -->
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsoni0786&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni0786&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsoni0786&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=8b949e&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni0786&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=8b949e" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsoni0786&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=akashsoni0786&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" height="165"/>
 </p>
 
----
+<details>
+<summary align="center"><b>📈 Contribution graph</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashsoni0786&bg_color=00000000&color=8b949e&line=1D9E75&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+</details>
 
+<!-- ═══════════════════════  EDUCATION  ═══════════════════════ -->
 ## 🎓 Education & Certifications
 
-- 🎓 **B.Tech in Computer Science** — 🥇 University Gold Medalist (Topper)
-- 📜 Scaler Academy — System Design, DSA, Frontend Development
-- 📜 HackerRank — JavaScript, Problem Solving
-- 📜 IIT Roorkee — Android Development
+| | |
+|:--:|:--|
+| 🥇 | **B.Tech, Computer Science** — University Gold Medalist (Topper) |
+| 📜 | **Scaler Academy** — System Design, DSA, Frontend Development |
+| 📜 | **HackerRank** — JavaScript, Problem Solving |
+| 📜 | **IIT Roorkee** — Android Development |
 
----
-
-## 📫 Connect With Me
-
-- 📧 **Email:** akashkumarsoni0786@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/creator-akash-soni](https://linkedin.com/in/creator-akash-soni)
-- 📱 **WhatsApp:** [+91 72750 22124](https://wa.me/917275022124)
-
----
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
+<br/>
 
 <p align="center">
-  <i>✔ Strong React + AI combination &nbsp;|&nbsp; ✔ Proven business impact &nbsp;|&nbsp; ✔ Real-world scalable systems</i>
+  <b>💬 Open to collaborations on React, Next.js & GenAI products — let's build something great.</b><br/><br/>
+  <a href="mailto:akashkumarsoni0786@gmail.com">akashkumarsoni0786@gmail.com</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/creator-akash-soni">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://wa.me/917275022124">+91 72750 22124</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1D9E75,100:0f2027&height=110&section=footer" width="100%"/>
 </p>
